@@ -36,7 +36,4 @@ This is a portfolio website built using React, showcasing a landing page, skills
 
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
